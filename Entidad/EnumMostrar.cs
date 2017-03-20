@@ -1,0 +1,1 @@
+﻿public enum EnumMostrar { Alumno, Curso,AlumnoCurso,AlumnoASPNET }

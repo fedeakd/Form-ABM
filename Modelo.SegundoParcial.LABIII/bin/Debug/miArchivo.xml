@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Curso>
+    <codigo>1000</codigo>
+    <duracion>1</duracion>
+    <nombre>3 d</nombre>
+  </Curso>
+  <Curso>
+    <codigo>1005</codigo>
+    <duracion>1</duracion>
+    <nombre>1 c</nombre>
+  </Curso>
+  <Curso>
+    <codigo>1010</codigo>
+    <duracion>1</duracion>
+    <nombre>4 j</nombre>
+  </Curso>
+</DocumentElement>

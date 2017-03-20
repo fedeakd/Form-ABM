@@ -1,0 +1,43 @@
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Modelo.SegundoParcial.LABIII.exe.config
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Modelo.SegundoParcial.LABIII.exe
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Modelo.SegundoParcial.LABIII.pdb
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Entidad.dll
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Entidad.pdb
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.csprojResolveAssemblyReference.cache
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.frmAlumno.resources
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.frmPrincipal.resources
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.Properties.Resources.resources
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.csproj.GenerateResource.Cache
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.exe
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.pdb
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Libreria.dll
+D:\fede\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Libreria.pdb
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Modelo.SegundoParcial.LABIII.exe.config
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.exe
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.pdb
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Modelo.SegundoParcial.LABIII.exe
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Modelo.SegundoParcial.LABIII.pdb
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Libreria.dll
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Libreria.pdb
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.frmAlumno.resources
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.frmPrincipal.resources
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.Properties.Resources.resources
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.FrmMostrar.resources
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Modelo.SegundoParcial.LABIII.exe.config
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.exe
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.pdb
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Modelo.SegundoParcial.LABIII.exe
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Modelo.SegundoParcial.LABIII.pdb
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\bin\Debug\Libreria.pdb
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.frmAlumno.resources
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.FrmMostrar.resources
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.frmPrincipal.resources
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.Properties.Resources.resources
+C:\Users\Usuario\Desktop\(PnF)\Laboratorio3 c# form\Esto es mio\Parcial2\ModeloParcial2\Modelo.SegundoParcial.LABIII\obj\Debug\Modelo.SegundoParcial.LABIII.csproj.GenerateResource.Cache
